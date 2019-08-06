@@ -526,7 +526,7 @@ textarea.form-control {
 #l10 {
   left: 10%;
   top: 50px;
-  z-index : 20;
+  z-index : 100;
 }
 .layer-bg {
   position: absolute;
